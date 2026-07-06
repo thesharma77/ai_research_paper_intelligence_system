@@ -125,7 +125,7 @@ streamlit run app.py
 
 **Rohit Sharma**
 
-- GitHub: https://github.com/therohit77
+- GitHub: https://github.com/Rohit-Sharma-7
 - LinkedIn: https://linkedin.com/in/rohit-sharma-2aa438260/
 
 ---
